@@ -1,3 +1,5 @@
-# hangman-git
+# Git Essentials / Git for Everybody
 
-Some new stuff in here
+This is a course to teach you how to use everday git.
+
+Course completed by Andrew Duley
